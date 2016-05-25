@@ -51,56 +51,109 @@
                 "result": "3 : 1"
                 },
                 ],
-                "World": [
+     "World": [
                  {
                 "name": "Turniej kwalifikacyjny IO mężczyzn",
                 "team": "Iran - Australia",
                 "date": "28 maja",
-                "result": "godz. 3:00"
+                "time": "godz. 3:00"
                 },
                  {
                 "name": "Turniej kwalifikacyjny IO mężczyzn",
                 "team": "Chiny - Francja",
                 "date": "28 maja",
-                "result": "godz. 5:30"
+                "time": "godz. 5:30"
                 },
                  {
                 "name": "Turniej kwalifikacyjny IO mężczyzn",
                 "team": "Polska - Kanada",
                 "date": "28 maja",
-                "result": "godz. 8:30"
+                "time": "godz. 8:30"
                 },
                  {
                 "name": "Turniej kwalifikacyjny IO mężczyzn",
                 "team": "Japonia - Wenezuela",
                 "date": "28 maja",
-                "result": "godz. 12:10"
+                "time": "godz. 12:10"
                 },
                  {
                 "name": "Turniej kwalifikacyjny IO mężczyzn",
-                "team": "",
-                "date": "",
-                "result": ""
+                "team": "Kanada - Iran",
+                "date": "29 maja",
+                "time": "godz. 3:00"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Kanada - Iran",
+                "date": "29 maja",
+                "time": "godz. 3:00"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Wenezuela - Australia",
+                "date": "29 maja",
+                "time": "godz. 5:45"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Francja - Polska",
+                "date": "29 maja",
+                "time": "godz. 8:30"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Japonia - Chiny",
+                "date": "29 maja",
+                "time": "godz. 12:10"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Australia - Kanada",
+                "date": "31 maja",
+                "time": "godz. 3:00"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Chiny - Wenezuela",
+                "date": "31 maja",
+                "time": "godz. 5:45"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Iran - Francja",
+                "date": "31 maja",
+                "time": "godz. 8:30"
                 },
                  {
-                "name": "",
-                "team": "",
-                "date": "",
-                "result": ""
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Polska - Japonia",
+                "date": "31 maja",
+                "time": "godz. 12:10"
+                },
+                  {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Wenezuela - Kanada",
+                "date": "1 czerwca",
+                "time": "godz. 3:00"
                 },
                  {
-                "name": "",
-                "team": "",
-                "date": "",
-                "result": ""
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Francja - Australia",
+                "date": "1 czerwca",
+                "time": "godz. 5:45"
                 },
                  {
-                "name": "",
-                "team": "",
-                "date": "",
-                "result": ""
-                }
-                
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Chiny - Polska",
+                "date": "1 czerwca",
+                "time": "godz. 8:30"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Japonia - Iran",
+                "date": "1 czerwca",
+                "time": "godz. 12:10"
+                },
                 
     ]
 }
