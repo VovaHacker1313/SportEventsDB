@@ -49,8 +49,9 @@
                 "team": "ŁKS Commercecon Łódź - Budowlani Toruń",
                 "date": "20 maja",
                 "result": "3 : 1"
-                },
-                ],
+                 }
+            ],
+    
      "World": [
                  {
                 "name": "Turniej kwalifikacyjny IO mężczyzn",
@@ -154,6 +155,104 @@
                 "date": "1 czerwca",
                 "time": "godz. 12:10"
                 },
-                
+            
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Iran - Australia",
+                "date": "2 czerwca",
+                "time": "godz. 3:00"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Chiny - Francja",
+                "date": "2 czerwca",
+                "time": "godz. 5:30"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Polska - Kanada",
+                "date": "2 czerwca",
+                "time": "godz. 8:30"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Japonia - Wenezuela",
+                "date": "2 czerwca",
+                "time": "godz. 12:10"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Kanada - Iran",
+                "date": "4 czerwca",
+                "time": "godz. 3:00"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Kanada - Iran",
+                "date": "4 czerwca",
+                "time": "godz. 3:00"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Wenezuela - Australia",
+                "date": "4 czerwca",
+                "time": "godz. 5:45"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Francja - Polska",
+                "date": "4 czerwca",
+                "time": "godz. 8:30"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Japonia - Chiny",
+                "date": "5 czerwca",
+                "time": "godz. 12:10"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Australia - Kanada",
+                "date": "5 czerwca",
+                "time": "godz. 3:00"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Chiny - Wenezuela",
+                "date": "5 czerwca",
+                "time": "godz. 5:45"
+                },
+                   {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Iran - Francja",
+                "date": "5 czerwca",
+                "time": "godz. 8:30"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Polska - Japonia",
+                "date": "6 czerwca",
+                "time": "godz. 12:10"
+                },
+                  {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Wenezuela - Kanada",
+                "date": "6 czerwca",
+                "time": "godz. 3:00"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Francja - Australia",
+                "date": "6 czerwca",
+                "time": "godz. 5:45"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Chiny - Polska",
+                "date": "6 czerwca",
+                "time": "godz. 8:30"
+                }
     ]
+}
+]
 }
