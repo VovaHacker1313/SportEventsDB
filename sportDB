@@ -1,0 +1,106 @@
+{
+    "games": [
+        {
+        "Poland":[
+        {
+                "name": "Memoriał Huberta Jerzego Wagnera",
+                "team": "Belgia - Serbia",
+                "date": "17 maja",
+                "result": "2 : 3"
+                },
+                 {
+                "name": "Memoriał Huberta Jerzego Wagnera",
+                "team": "Polska - Bułgaria",
+                "date": "17 maja",
+                "result": "2 : 3"
+                },
+                 {
+                "name": "Memoriał Huberta Jerzego Wagnera",
+                "team": "Bułgaria - Serbia",
+                "date": "18 maja",
+                "result": "3 : 2"
+                },
+                 {
+                "name": "Memoriał Huberta Jerzego Wagnera",
+                "team": "Polska - Belgia",
+                "date": "18 maja",
+                "result": "3 : 1"
+                },
+                 {
+                "name": "Memoriał Huberta Jerzego Wagnera",
+                "team": "Belgia - Bułgaria",
+                "date": "19 maja",
+                "result": "0 : 3"
+                },
+                 {
+                "name": "Memoriał Huberta Jerzego Wagnera",
+                "team": "Polska - Serbia",
+                "date": "19 maja",
+                "result": "2 : 3"
+                },
+                 {
+                "name": "I liga mężczyzn",
+                "team": "GKS Katowice - SMS PZPS Spała",
+                "date": "20 maja",
+                "result": "3 : 1"
+                },
+                 {
+                "name": "I liga kobiet",
+                "team": "ŁKS Commercecon Łódź - Budowlani Toruń",
+                "date": "20 maja",
+                "result": "3 : 1"
+                },
+                ],
+                "World": [
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Iran - Australia",
+                "date": "28 maja",
+                "result": "godz. 3:00"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Chiny - Francja",
+                "date": "28 maja",
+                "result": "godz. 5:30"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Polska - Kanada",
+                "date": "28 maja",
+                "result": "godz. 8:30"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "Japonia - Wenezuela",
+                "date": "28 maja",
+                "result": "godz. 12:10"
+                },
+                 {
+                "name": "Turniej kwalifikacyjny IO mężczyzn",
+                "team": "",
+                "date": "",
+                "result": ""
+                },
+                 {
+                "name": "",
+                "team": "",
+                "date": "",
+                "result": ""
+                },
+                 {
+                "name": "",
+                "team": "",
+                "date": "",
+                "result": ""
+                },
+                 {
+                "name": "",
+                "team": "",
+                "date": "",
+                "result": ""
+                }
+                
+                
+    ]
+}
