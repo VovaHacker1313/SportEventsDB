@@ -215,6 +215,24 @@
       ],
       "image": "http://jsonparsing.parseapp.com/jsonData/images/ryan.jpg",
       "story": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+    },
+    {
+      "movie": "xxxxx",
+      "year": 1998,
+      "rating": 8.6,
+      "duration": "169 min",
+      "director": "awfawfawfawfafaw",
+      "tagline": "wfwfwdfawfawfawfafafw",
+      "cast": [
+        {
+          "name": "Tom Hanks"
+        },
+        {
+          "name": "Matt Damon"
+        }
+      ],
+      "image": "http://jsonparsing.parseapp.com/jsonData/images/ryan.jpg",
+      "story": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
     }   
   ]
 }
